@@ -38,7 +38,7 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 * Demonstrate reactive behavior to feedback
-* Impair the growth or personal development of any member in the field research
+* Impair the growth or professional development of any member in the field research
 
 
 ## Enforcement Responsibilities
