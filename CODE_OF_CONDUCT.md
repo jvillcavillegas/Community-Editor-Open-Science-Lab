@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Contributor Editor's Code of Conduct
 
 ## Our Pledge
 
