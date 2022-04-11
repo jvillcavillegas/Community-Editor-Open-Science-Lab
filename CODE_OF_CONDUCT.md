@@ -26,6 +26,7 @@ community include:
   overall community
 * Work with transparency
 * Respect ethnic differences, language, culture of those who are part of the community
+* Provide logistical support to new publishers  
 
 Examples of unacceptable behavior include:
 
@@ -39,6 +40,7 @@ Examples of unacceptable behavior include:
   professional setting
 * Demonstrate reactive behavior to feedback
 * Impair the growth or professional development of any member in the field editorial or research
+* Failure to comply with editorial and research ethical standards
 
 
 ## Enforcement Responsibilities
