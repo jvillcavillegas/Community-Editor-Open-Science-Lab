@@ -40,7 +40,7 @@ Algunos ejemplos de comportamiento inaceptable son:
 * Demostrar conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional.
 * Demostrar un comportamiento reactivo ante una retroalimentación.
 * Perjudicar el crecimiento o el desarrollo profesional de cualquier miembro en el ámbito editorial o de investigación.
-* Incumplir de las normas éticas editoriales y de investigación.
+* Incumplir las normas éticas editoriales y de investigación.
 
 
 ## Responsabilidades de los lideres
