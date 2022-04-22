@@ -43,7 +43,7 @@ Algunos ejemplos de comportamiento inaceptable son:
 * Incumplimiento de las normas éticas editoriales y de investigación
 
 
-## Responsabilidades de aplicación
+## Responsabilidades de los lideres
 
 Los líderes comunitarios son responsables de aclarar y hacer cumplir nuestras normas de
 comportamiento aceptable y tomarán medidas correctivas apropiadas y justas en
@@ -67,13 +67,14 @@ representante en un evento en línea o fuera de línea.
 
 Los casos de comportamiento abusivo, acosador o inaceptable pueden ser
 denunciarse a los líderes de la comunidad responsables de su aplicación en
-CÓDIGO_DE_CONDUCTA.
+CODE_DE_CONDUCT.md.
+
 Todas las quejas serán revisadas e investigadas de forma rápida y justa.
 
 Todos los líderes de la comunidad están obligados a respetar la privacidad y la seguridad del
 denunciante de cualquier incidente.
 
-## Directrices de aplicación
+## Directrices de comunidad
 
 Los líderes comunitarios seguirán estas Directrices de Impacto Comunitario para determinar
 las consecuencias de cualquier acción que consideren que infringe este Código de Conducta:
@@ -97,7 +98,7 @@ interacción con las personas implicadas, incluida la interacción no solicitada
 con los encargados de hacer cumplir el Código de Conducta, durante un periodo de tiempo determinado. Este
 incluye evitar las interacciones en los espacios de la comunidad, así como en los canales externos
 como las redes sociales. La violación de estas condiciones puede dar lugar a una prohibición temporal o
-temporal o permanente.
+permanente.
 
 ### 3. Prohibición temporal
 
@@ -105,15 +106,14 @@ temporal o permanente.
 comportamiento inapropiado sostenido.
 
 **Consecuencia: Prohibición temporal de cualquier tipo de interacción o comunicación
-comunicación pública con la comunidad durante un período de tiempo determinado. Se prohíbe la interacción pública o
-interacción pública o privada con las personas involucradas, incluyendo la interacción no solicitada
-con los encargados de hacer cumplir el Código de Conducta, está permitida durante este periodo.
+comunicación pública con la comunidad durante un período de tiempo determinado. 
+Se prohíbe la interacción pública o privada con las personas involucradas, incluyendo la interacción no solicitada
+con los encargados de hacer cumplir el Código de Conducta,no está permitida durante este periodo.
 La violación de estos términos puede llevar a un baneo permanente.
 
 ### 4. Prohibición permanente
 
-**Impacto en la comunidad**: Demostrar un patrón de violación de las normas de la comunidad
-comunidad, incluyendo un comportamiento inapropiado sostenido, acoso a un
+**Impacto en la comunidad**: Demostrar un patrón de violación de las normas de la comunidad, incluyendo un comportamiento inapropiado sostenido, acoso a un
 individuo, o la agresión hacia o el desprecio de clases de individuos.
 
 **Consecuencia: Prohibición permanente de cualquier tipo de interacción pública dentro de
