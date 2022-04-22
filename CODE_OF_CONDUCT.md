@@ -17,30 +17,30 @@ diversa, inclusiva y saludable.
 Ejemplos de comportamientos que contribuyen a un entorno positivo para nuestra
 comunidad incluyen:
 
-* Demostrar empatía y amabilidad hacia otras personas
-* Ser respetuoso con las diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar con gracia los comentarios constructivos
+* Demostrar empatía y amabilidad hacia los demas.
+* Ser respetuoso con las diferentes opiniones, puntos de vista y experiencias.
+* Dar y aceptar con gracia comentarios productivos.
 * Aceptar la responsabilidad y pedir disculpas a los afectados por nuestros errores,
-  y aprender de la experiencia
+  y aprender de la experiencia.
 * Centrarse en lo que es mejor no sólo para nosotros como individuos, sino para la
-  comunidad en general
-* Trabajar con transparencia
-* Respetar las diferencias étnicas, el idioma y la cultura de quienes forman parte de la comunidad
-* Proporcionar apoyo logístico a los nuevos editores  
-* Ayudar a mantener el control en situaciones controvertidas
-* Respetar las normas de la comunidad
+  comunidad en general.
+* Trabajar con transparencia.
+* Respetar las diferencias étnicas, el idioma y la cultura de quienes forman parte de la comunidad.
+* Proporcionar apoyo logístico a los nuevos editores.
+* Ayudar a mantener el control en situaciones controvertidas.
+* Respetar las normas de la comunidad.
 
 Algunos ejemplos de comportamiento inaceptable son:
 
-* El uso de lenguaje o imágenes sexualizadas, y la atención sexual o insinuaciones sexuales de cualquier tipo
-* Trolling, comentarios insultantes o despectivos, y ataques personales o políticos
-* Acoso público o privado
+* Usar lenguaje o imágenes sexualizadas, y la atención sexual o insinuaciones sexuales de cualquier tipo.
+* Trolling, comentarios insultantes o despectivos, y ataques personales o políticos.
+* Acoso público o privado.
 * Publicar información privada de otros, como su dirección física o de correo electrónico, sin su permiso explícito.
   Publicar información privada de otros, como una dirección física o de correo electrónico, sin su permiso explícito.
-* Otras conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional
-* Demostrar un comportamiento reactivo a la retroalimentación
-* Perjudicar el crecimiento o el desarrollo profesional de cualquier miembro en el ámbito editorial o de investigación
-* Incumplimiento de las normas éticas editoriales y de investigación
+* Demostrar conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional.
+* Demostrar un comportamiento reactivo ante una retroalimentación.
+* Perjudicar el crecimiento o el desarrollo profesional de cualquier miembro en el ámbito editorial o de investigación.
+* Incumplir de las normas éticas editoriales y de investigación.
 
 
 ## Responsabilidades de los lideres
