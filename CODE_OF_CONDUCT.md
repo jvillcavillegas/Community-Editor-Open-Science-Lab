@@ -27,7 +27,8 @@ community include:
 * Work with transparency
 * Respect ethnic differences, language, culture of those who are part of the community
 * Provide logistical support to new publishers  
-
+* Ayudar a mantener el control en situaciones controvertidas
+* Respetar las normas de la comunidad
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or
