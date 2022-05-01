@@ -43,7 +43,7 @@ Algunos ejemplos de comportamiento inaceptable son:
 * Perjudicar el crecimiento o el desarrollo profesional de cualquier miembro en el ámbito editorial o de investigación.
 * Incumplir las normas éticas editoriales y de investigación.
 * Realizar SPAM (comunicaciones no solicitadas que se envían de forma masiva)
-* Realizar publicidad o enviar enlaces de cualquier tipo no relacionados a la mision vision de la comunidad, sin autorizacion 
+* Realizar publicidad o enviar enlaces de cualquier tipo no relacionados a la mision y vision de la comunidad, sin autorizacion 
 
 ## Responsabilidades de los lideres
 
