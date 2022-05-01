@@ -27,6 +27,7 @@ comunidad incluyen:
 * Trabajar con transparencia.
 * Respetar las diferencias étnicas, el idioma y la cultura de quienes forman parte de la comunidad.
 * Proporcionar apoyo logístico a los nuevos editores.
+* Participar activamente en la comunidad
 * Ayudar a mantener el control en situaciones controvertidas.
 * Respetar las normas de la comunidad.
 
@@ -41,7 +42,8 @@ Algunos ejemplos de comportamiento inaceptable son:
 * Demostrar un comportamiento reactivo ante una retroalimentación.
 * Perjudicar el crecimiento o el desarrollo profesional de cualquier miembro en el ámbito editorial o de investigación.
 * Incumplir las normas éticas editoriales y de investigación.
-
+* Realizar SPAM
+* Realizar publicidad o enviar enlaces de cualquier tipo, sin autorizacion 
 
 ## Responsabilidades de los lideres
 
