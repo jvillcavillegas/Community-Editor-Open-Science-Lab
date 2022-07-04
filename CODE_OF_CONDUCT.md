@@ -27,9 +27,10 @@ comunidad incluyen:
 * Trabajar con transparencia.
 * Respetar las diferencias étnicas, el idioma y la cultura de quienes forman parte de la comunidad.
 * Proporcionar apoyo logístico a los nuevos editores.
-* Participar activamente en la comunidad
+* Participar activamente en la comunidad.
 * Ayudar a mantener el control en situaciones controvertidas.
 * Respetar las normas de la comunidad.
+* Respetar los horarios de descanso laboral (Solo se podra enviar y responder informacion a whatsapp , telegram y discord en horario laboral (18:00pm a 00:00am), en especial envio y recibo de correos oficiales a los cordinadores, colaboradores y estudiantes ) Excepciones: Se podra enviar un correo fuera de horario laboral por parte de cualquier persona de la comunidad, pero siempre aclarando que la persona a la que se envio el mensaje pueda responderlo en horario laboral, y no en descanso laboral, respetando su privacidad y descanso.
 
 Algunos ejemplos de comportamiento inaceptable son:
 
@@ -42,8 +43,8 @@ Algunos ejemplos de comportamiento inaceptable son:
 * Demostrar un comportamiento reactivo ante una retroalimentación.
 * Perjudicar el crecimiento o el desarrollo profesional de cualquier miembro en el ámbito editorial o de investigación.
 * Incumplir las normas éticas editoriales y de investigación.
-* Realizar SPAM (comunicaciones no solicitadas que se envían de forma masiva)
-* Realizar publicidad o enviar enlaces de cualquier tipo no relacionados a la mision y vision de la comunidad, sin autorizacion 
+* Realizar SPAM (comunicaciones no solicitadas que se envían de forma masiva).
+* Realizar publicidad o enviar enlaces de cualquier tipo no relacionados a la mision y vision de la comunidad, sin autorizacion.
 
 ## Responsabilidades de los lideres
 
